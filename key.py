@@ -1,1 +1,1 @@
-HUGGINGFACE_API_KEY="use your api key"
+HUGGINGFACE_API_KEY="replace-with-huggingface-api-key"
